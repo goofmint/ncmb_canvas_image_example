@@ -10,3 +10,7 @@
 ## LICENSE
 
 MIT License
+
+----
+
+[アプリ開発をよりスマートに、スピーディに | ニフティクラウド mobile backend](http://mb.cloud.nifty.com/)
